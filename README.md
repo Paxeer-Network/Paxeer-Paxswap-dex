@@ -1,10 +1,10 @@
-# 🌊 DewSwap - Decentralized Exchange Protocol
+# 🌊 PaxSwap - Decentralized Exchange Protocol
 
 [![Solidity](https://img.shields.io/badge/Solidity-^0.8.30-blue.svg)](https://soliditylang.org/)
 [![Network](https://img.shields.io/badge/Network-Paxeer-green.svg)](https://paxeer.app)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-DewSwap is a comprehensive decentralized exchange (DEX) protocol built for the Paxeer Network. It provides automated market making (AMM), liquidity provision, yield farming, and token swapping capabilities.
+PaxSwap is a comprehensive decentralized exchange (DEX) protocol built for the Paxeer Network. It provides automated market making (AMM), liquidity provision, yield farming, and token swapping capabilities.
 
 **Note**: The Paxeer Network uses PAX as its native gas token (not ETH). All transaction fees are paid in PAX.
 
